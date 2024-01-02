@@ -1,0 +1,5 @@
+flask
+flask_restful
+python-dotenv
+flask_smorest
+Flask-JWT-Extended
